@@ -1,2 +1,2 @@
 # dataplane-ai.github.io
-Taurus: An Intelligent Data Plane
+Welcome to Taurus project website!
